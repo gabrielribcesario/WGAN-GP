@@ -1,2 +1,7 @@
 # WGAN-GP
-A WGAN-GP based on https://arxiv.org/abs/1704.00028v3.
+
+A WGAN-GP code I wrote and ran on Kaggle. 
+
+Original notebook: https://www.kaggle.com/code/gabrielribeirocsilva/wgan-gp-mnist
+
+Original paper: https://arxiv.org/abs/1704.00028v3.
